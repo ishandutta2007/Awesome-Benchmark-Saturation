@@ -10,7 +10,10 @@ Benchmark Saturation is a meta-scientific phenomenon in artificial intelligence 
 The historical lifespan of machine learning evaluations reflects a compression wave, shifting from multi-decade diagnostic suites to rapidly evaporating static tests and continuous dynamic validation environments.
 
 ```mermaid
-[Multi-Decade Benchmarks (MNIST/ImageNet)] ───> [Rapid Linguistic Evaluation (GLUE/MMLU)] ───> [Dynamic & Interactive Frontiers (SWE-bench/Live)](Saturated in Decades)                             (Saturated in 12–24 Months)                         (Continuous Programmatic Matrix Adaptation)
+flowchart LR
+    A["Multi-Decade Benchmarks (MNIST/ImageNet)<br/>(Saturated in Decades)"]
+    --> B["Rapid Linguistic Evaluation (GLUE/MMLU)<br/>(Saturated in 12–24 Months)"]
+    --> C["Dynamic & Interactive Frontiers (SWE-bench/Live)<br/>(Continuous Programmatic Matrix Adaptation)"]
 ```
 
 
@@ -47,7 +50,12 @@ To bypass the measurement limitations of saturated benchmarks, AI safety and inf
 
 
 ```mermaid
-[Saturated Static Text Test] ──(Deconstruct)──> [Flipped Prompt Geometry] ──(Isolate)──> [Expose Deep Logical Hallucinations]
+flowchart LR
+    A["Saturated Static Text Test"]
+    -- "Deconstruct" -->
+    B["Flipped Prompt Geometry"]
+    -- "Isolate" -->
+    C["Expose Deep Logical Hallucinations"]
 ```
 
 
