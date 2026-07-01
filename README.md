@@ -31,16 +31,16 @@ flowchart LR
 
 Benchmark saturation manifests across distinct operational vectors, determined by the underlying structural format of the evaluation inputs.
 
-### A. Multiple-Choice Knowledge Saturation (Goodhart's Law Exploitation)
-*   **Mechanism:** Occurs primarily across static datasets structured around fixed option menus (A, B, C, D). As models scale, they exploit cross-entropy statistical shortcuts and memorize factual associations, pushing accuracy lines straight into the 90%+ ceiling.
-*   **The Hurdle:** Models achieve near-perfect metrics while still displaying profound structural reasoning brittleness under minor syntax flips.
+-  ### A. Multiple-Choice Knowledge Saturation (Goodhart's Law Exploitation)
+    *   **Mechanism:** Occurs primarily across static datasets structured around fixed option menus (A, B, C, D). As models scale, they exploit cross-entropy statistical shortcuts and memorize factual associations, pushing accuracy lines straight into the 90%+ ceiling.
+    *   **The Hurdle:** Models achieve near-perfect metrics while still displaying profound structural reasoning brittleness under minor syntax flips.
 
-### B. Contamination-Driven Saturation (Data Bleed)
-*   **Mechanism:** A structural engineering hazard rather than true capability convergence. Because frontier foundation models are pre-trained on multi-trillion token web crawls, public open-source benchmark questions are frequently ingested straight into the training data matrix inadvertently.
-*   **The Consequence:** The model appears to have achieved a zero-shot reasoning breakthrough, but it is actually executing basic data memorization and token retrieval.
+-  ### B. Contamination-Driven Saturation (Data Bleed)
+    *   **Mechanism:** A structural engineering hazard rather than true capability convergence. Because frontier foundation models are pre-trained on multi-trillion token web crawls, public open-source benchmark questions are frequently ingested straight into the training data matrix inadvertently.
+    *   **The Consequence:** The model appears to have achieved a zero-shot reasoning breakthrough, but it is actually executing basic data memorization and token retrieval.
 
-### C. Evaluation-Engine Saturation (LLM-as-a-Judge Ceiling)
-*   **Mechanism:** Occurs when developers use a massive frontier model (e.g., GPT-4o) to grade the qualitative conversational or reasoning outputs of smaller models. As the student models improve, they align closely with the judge's latent preferences, causing the evaluation scores to flatline at a perfect 10/10, making subtle downstream feature differentiation impossible.
+-  ### C. Evaluation-Engine Saturation (LLM-as-a-Judge Ceiling)
+    *   **Mechanism:** Occurs when developers use a massive frontier model (e.g., GPT-4o) to grade the qualitative conversational or reasoning outputs of smaller models. As the student models improve, they align closely with the judge's latent preferences, causing the evaluation scores to flatline at a perfect 10/10, making subtle downstream feature differentiation impossible.
 
 ---
 
