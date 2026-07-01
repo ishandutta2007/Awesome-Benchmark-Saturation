@@ -114,6 +114,17 @@ To advance this section of your repository, benchmarking architecture, or MLOps 
 * Generate a **comprehensive Markdown table** explicitly analyzing MNIST, ImageNet, MMLU, GSM8K, GPQA, and SWE-bench across initialization years, saturation velocities, target capability horizons, tracking structures (static vs. programmatic), and data contamination vulnerability.
 * Establish an **automated evaluation harness using Docker enclaves** to benchmark the exact wall-clock throughput and validation consistency achieved when transitioning an enterprise checkpoint testing matrix from static prompt checking to active sandbox tool execution loops.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Benchmark-Saturation&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Benchmark-Saturation&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Benchmark-Saturation&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Benchmark-Saturation&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ***
 
 **Proactive Repository Follow-Ups:**
