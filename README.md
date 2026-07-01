@@ -4,9 +4,21 @@
   <img src="assets/banner.svg" alt="Awesome Benchmark Saturation Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 ## 🚀 Benchmark Saturation in AI: History, Progression, Variants, & Applications
 
 Benchmark Saturation is a meta-scientific phenomenon in artificial intelligence where a standardized evaluation suite or dataset ceases to effectively differentiate the capabilities of state-of-the-art models because performance metrics approach the mathematical upper limit (100% accuracy, or human parity). Historically, AI benchmarks were designed to guide research decades into the future. However, the exponential rise of large-scale pre-training and test-time compute scaling laws has compressed the lifespan of evaluations from decades to months. When a benchmark saturates, it introduces a severe tracking blind spot, masking structural hallucinations, logical brittleness, and catastrophic tail-end failures under a deceptive veneer of near-perfect baseline metrics.
+
+### 🗺️ Table of Contents
+- [📅 1. The Macro Chronological Evolution](#-1-the-macro-chronological-evolution)
+- [🔍 2. Core Functional & Saturation Variants](#-2-core-functional--saturation-variants)
+- [🛠️ 3. Structural Evaluation Spaces & Mitigations](#%EF%B8%8F-3-structural-evaluation-spaces--mitigations)
+- [⚙️ 4. Production Engineering Challenges & Infrastructure Countermeasures](#%EF%B8%8F-4-production-engineering-challenges--infrastructure-countermeasures)
+- [🌐 5. Frontier Real-World AI Infrastructure Applications](#-5-frontier-real-world-ai-infrastructure-applications)
+- [📚 References](#-references)
 
 ---
 
